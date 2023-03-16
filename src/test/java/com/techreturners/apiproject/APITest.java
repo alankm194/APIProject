@@ -8,6 +8,6 @@ public class APITest {
     @Test
     void test() {
 
-        assertEquals("hello", "hello");
+        assertEquals("ffc", "hello");
     }
 }
